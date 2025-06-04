@@ -5,7 +5,7 @@
   "scripts": ["scripts/diceset.js"],
   "url": "https://github.com/Kuzhnya/Kuzhnya-Fate-Point-Foundry/",
   "manifest": "https://raw.githubusercontent.com/Kuzhnya/Kuzhnya-Fate-Point-Foundry/main/module.json",
-  "download": "https://raw.githubusercontent.com/Kuzhnya/Kuzhnya-Fate-Point-Foundry/main/kuzhnyafate",
+  "download": "https://raw.githubusercontent.com/Kuzhnya/Kuzhnya-Fate-Point-Foundry/main/kuzhnyafate.zip",
   "id": "kuzhnyafate",
   "authors": [
     {
