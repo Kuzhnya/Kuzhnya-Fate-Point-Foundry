@@ -4,8 +4,8 @@
   "version": "13.1",
   "scripts": ["scripts/diceset.js"],
   "url": "https://github.com/Kuzhnya/Kuzhnya-Fate-Point-Foundry/",
-  "manifest": "https://raw.githubusercontent.com/Kuzhnya/Kuzhnya-Fate-Point-Foundrn/main/module.json",
-  "download": "https://raw.githubusercontent.com/Kuzhnya/Kuzhnya-Fate-Point-Foundrn/main/kuzhnyafate",
+  "manifest": "https://raw.githubusercontent.com/Kuzhnya/Kuzhnya-Fate-Point-Foundry/main/module.json",
+  "download": "https://raw.githubusercontent.com/Kuzhnya/Kuzhnya-Fate-Point-Foundry/main/kuzhnyafate",
   "id": "kuzhnyafate",
   "authors": [
     {
