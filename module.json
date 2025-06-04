@@ -1,0 +1,29 @@
+{
+  "title": "Kuzhnya Fate Point Foundry",	
+  "description": "Fate Point Coin for Dice so Noce",
+  "version": "13.1",
+  "scripts": ["scripts/diceset.js"],
+  "url": "https://github.com/Kuzhnya/Kuzhnya-Fate-Point-Foundry/",
+  "manifest": "https://raw.githubusercontent.com/Kuzhnya/Kuzhnya-Fate-Point-Foundrn/main/module.json",
+  "download": "https://raw.githubusercontent.com/Kuzhnya/Kuzhnya-Fate-Point-Foundrn/main/kuzhnyafate",
+  "id": "kuzhnyafate",
+  "authors": [
+    {
+      "name": "kuzhnyafate",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "10",
+    "verified": "13"
+  }
+}
